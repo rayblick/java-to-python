@@ -1,8 +1,10 @@
 # Sleep Method
 
 ## Content
-This directory contains a .java file and a .py file that implemment the 
-sleep method. The method is evaluated using a while loop.  
+This directory contains a .java file and a Jupyter notebook that implemment the 
+sleep method. The method is evaluated using a while loop. I have used wrapped
+the sleep method inside a class and used one "main" function so that the two
+languages appear comparable.  
 
 ## TLDR  
 ```  
