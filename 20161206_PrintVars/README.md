@@ -1,6 +1,6 @@
 # Print variables
 
-## TLDR  
+## Quick  
 ### Python  
 ```python
 myVar = "test"
